@@ -30,6 +30,9 @@ body{
     border: none;
     padding:0 20px;
 }
+.btn:hover{
+    background-color: #4d47ff81; ;
+}
 /* Part-1: Header*/
 .p1{
     margin: 60px auto;
