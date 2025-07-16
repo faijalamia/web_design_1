@@ -225,8 +225,48 @@ body{
     margin:20px auto;
 }
 .p6{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     border: 2px solid black;
     height: 650px;
     width: 1140px; 
     margin: 0 auto;
+}
+.p61{
+    font-family: "Raleway";
+    font-size: 97px;
+    font-weight: bold;
+    width: 528px;
+    height: 232px;
+}
+.p62{
+    width:497px;
+    height: 490px;
+    border: 2px solid black;
+}
+.p621{
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 500;
+}
+.p622{
+ width: 497px;
+ height: 70px;
+ border-radius: 5px;
+ border: none;
+ margin: 15px 0px;
+ box-shadow: 1px 4px 4px 1px rgba(0, 0, 0, 0.05);
+}
+.p623{
+   width: 497px;
+   height: 135px; 
+   border-radius: 5px;
+   border: none;
+   margin: 15px 0px;
+}
+.btn1{
+    width: 497px;
+    height: 62px;
+    box-shadow: 1px 4px 4px 1px rgba(0, 0, 0, 0.05);
 }
