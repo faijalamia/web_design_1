@@ -224,7 +224,6 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border: 2px solid black;
     height: 650px;
     width: 1140px; 
     margin: 0 auto;
@@ -239,7 +238,6 @@ body{
 .p62{
     width:497px;
     height: 490px;
-    border: 2px solid black;
 }
 .p621{
     font-family: "Inter";
@@ -265,4 +263,29 @@ body{
     width: 497px;
     height: 62px;
     box-shadow: 1px 4px 4px 1px rgba(0, 0, 0, 0.05);
+}
+.p7{
+    max-width: 1440px;
+    max-height: 428px;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+.p71{
+    font-family: "Inter";
+    font-size: 100px;
+    font-weight: 900;
+    color:#4E47FF;
+    padding-top: 104px;
+}
+.p72{
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+    color:#8987A1;
+    margin-bottom: 20px;
+}
+.p73{
+    display: flex;
+    justify-content: center;
+    gap:48px;
 }
