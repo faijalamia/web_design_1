@@ -136,8 +136,7 @@ body{
     color:rgba(0, 0, 0, 0.5);
 }
 .p4{
-    border: 2px solid black;
-    height: 342px;
+    height: 400px;
     width: 1140px; 
     margin: 0 auto;
     text-align: center;
@@ -147,6 +146,11 @@ body{
     font-family: 'raleway';
     font-weight: bold;
     font-size: 42px;
+    margin-bottom: 50px;
+}
+.cards{
+    display: flex;
+    gap:20px
 }
 .card{
     width: 367px;
